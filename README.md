@@ -10,5 +10,7 @@ Homomorphic encryption allows computations to be performed directly on encrypted
 ![alt text](image.png)
 
 References:
+
 https://openfhe.org/
+
 https://github.com/openfheorg/openfhe-development

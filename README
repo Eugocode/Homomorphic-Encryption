@@ -1,6 +1,6 @@
-# Homomorphic Encryption Example with OpenFHE
+#Homomorphic Encryption Example with OpenFHE
 
-This project demonstrates how to use the **OpenFHE** cryptographic library to perform **homomorphic encryption**
+This project demonstrates how to use the OpenFHE cryptographic library to perform homomorphic encryption
 
 ## 🔐 What is Homomorphic Encryption?
 
@@ -8,4 +8,6 @@ Homomorphic encryption allows computations to be performed directly on encrypted
 
 ## Sample Execution of Homomorphic Encryption using BFV (integer arithmetic operation)
 ![alt text](image.png)
+
+
 

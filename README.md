@@ -9,3 +9,6 @@ Homomorphic encryption allows computations to be performed directly on encrypted
 ## Sample Execution of Homomorphic Encryption using BFV (integer arithmetic operation)
 ![alt text](image.png)
 
+References:
+https://openfhe.org/
+https://github.com/openfheorg/openfhe-development
